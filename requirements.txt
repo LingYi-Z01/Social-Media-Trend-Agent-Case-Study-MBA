@@ -1,0 +1,7 @@
+feedparser>=6.0.8
+pydantic>=1.10.7
+python-dotenv>=1.0.0
+langgraph>=0.1.0
+langchain-core>=0.3.0
+langchain-google-genai>=0.1.0
+langchain-community>=0.1.0
